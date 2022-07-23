@@ -1,0 +1,20 @@
+[
+	{
+		"id":1,
+		"name":"Clifton",
+		"surname":"Bartholomew",
+		"classID":3
+	},
+	{
+		"id":2,
+		"name":"John",
+		"surname":"Smith",
+		"classID":3
+	},
+	{
+		"id":3,
+		"name":"Angus",
+		"surname":"Daisy",
+		"classID":3
+	}
+]

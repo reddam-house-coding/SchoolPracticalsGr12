@@ -1,0 +1,10 @@
+Deans Darby,50,5,18,16,23,26,17,33
+Race Day Devils,55,1,4,6,17,31
+Speedster Carnival,50,22,21,1
+Winter Warmer,60,19,9,15,24,20,12
+Misty Trackbeat,55,3,10,19,9
+Rad Roadsters,20,2,7,30,22,9,4
+Alternate Dragsters,58,31,4,27,18
+Go Go Go,61,25,8,13
+Low and Slow,60,14,25,32,28,11,5
+Crushing IT,55,23,33,29,34,11
