@@ -22,6 +22,8 @@ import org.json.JSONObject;
 public class JSONBasics {
 
     public static void main(String[] args) throws FileNotFoundException, IOException {
+        
+        
         String fileAsStringForJC = Files.readString(new File("student.json").toPath());
         
         JSONArray jar = new JSONArray(fileAsStringForJC);
