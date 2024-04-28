@@ -1,4 +1,4 @@
-[
+var people = [
 	{
 		"id":1,
 		"name":"Clifton",
